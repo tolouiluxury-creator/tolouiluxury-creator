@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Ehsan%20Toloui&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/header.png" width="100%" alt="Ehsan Toloui - AI & Automation Developer" />
 
 <a href="https://x.com/ehsan_toloui"><img src="https://img.shields.io/badge/X-@ehsan__toloui-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://toloui.de/"><img src="https://img.shields.io/badge/Website-toloui.de-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
