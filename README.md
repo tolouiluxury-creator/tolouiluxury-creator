@@ -65,8 +65,7 @@ Solves AI prompt repetition by injecting project context into every agent sessio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tolouiluxury-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=0EA5E9&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tolouiluxury-creator&theme=tokyonight&hide_border=true&background=00000000&ring=6D28D9&fire=0EA5E9&currStreakLabel=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=tolouiluxury-creator&theme=tokyonight&hide_border=true&background=00000000&ring=6D28D9&fire=0EA5E9&currStreakLabel=c9d1d9" height="165"/>
 
 </div>
 
