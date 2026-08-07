@@ -39,42 +39,39 @@ $ status --current
 ### Featured builds
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-      **[🛰️ hermes-control-center](https://github.com/tolouiluxury-creator/hermes-control-center)**
+**[🛰️ hermes-control-center](https://github.com/tolouiluxury-creator/hermes-control-center)**
 
-      Dashboard-first web control center for AI agents — widgets, chat and management pages over an agent that's already running.
+Dashboard-first web control center for AI agents — widgets, chat and management pages over an agent that's already running.
 
-      `TypeScript` `React` `Fastify` · [live demo ↗](https://hermes-cc.toloui.de/)
+`TypeScript` `React` `Fastify` · [live demo ↗](https://hermes-cc.toloui.de/)
 
-      </td>
-      <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-      **[🧠 hermes-project-context-skill](https://github.com/tolouiluxury-creator/hermes-project-context-skill)**
+**[🧠 hermes-project-context-skill](https://github.com/tolouiluxury-creator/hermes-project-context-skill)**
 
-      Solves AI prompt repetition by injecting project context into every agent session — no more re-explaining the project each time.
+Solves AI prompt repetition by injecting project context into every agent session — no more re-explaining the project each time.
 
-      `Python` `Agent Skills`
+`Python` `Agent Skills`
 
-      </td>
-      </tr>
-      </table>
-
-      <br/>
-
-      <div align="center">
-
-      <img src="https://github-readme-stats.vercel.app/api?username=tolouiluxury-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=0EA5E9&text_color=c9d1d9" height="165"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolouiluxury-creator&theme=tokyonight&hide_border=true&background=00000000&ring=6D28D9&fire=0EA5E9&currStreakLabel=c9d1d9" height="165"/>
-
-      </div>
-
-      <div align="center">
-
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer" width="100%"/>
-
-      </div>
-      
-  </tr>
+</td>
+</tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tolouiluxury-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=0EA5E9&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tolouiluxury-creator&theme=tokyonight&hide_border=true&background=00000000&ring=6D28D9&fire=0EA5E9&currStreakLabel=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer" width="100%"/>
+
+</div>
