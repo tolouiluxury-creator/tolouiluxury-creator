@@ -34,14 +34,6 @@ $ whoami --interests
 
 <br/>
 
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tolouiluxury-creator&theme=tokyonight)
-
-</div>
-
-<br/>
-
 ### Featured builds
 
 <table>
@@ -77,6 +69,6 @@ Solves AI prompt repetition by injecting project context into every agent sessio
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer" width="100%"/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tolouiluxury-creator&theme=tokyonight)
 
 </div>
