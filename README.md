@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/header.png" width="70%" alt="Ehsan Toloui - AI & Automation Developer" />
-
 <a href="https://x.com/ehsan_toloui"><img src="https://img.shields.io/badge/X-@ehsan__toloui-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://toloui.de/"><img src="https://img.shields.io/badge/Website-toloui.de-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Germany-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
