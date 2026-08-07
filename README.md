@@ -3,20 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Ehsan%20Toloui&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://x.com/ehsan_toloui"><img src="https://img.shields.io/badge/X-@ehsan__toloui-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://hermes-cc.toloui.de/"><img src="https://img.shields.io/badge/Live-hermes--cc.toloui.de-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://toloui.de/"><img src="https://img.shields.io/badge/Website-toloui.de-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Germany-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
-### `~/ehsan` — building agent-driven workflows
+### `~/ehsan` — AI, vibe coding & agent workflows
 
-I design and ship **self-hosted AI agent systems** — from the automation logic (n8n, custom skills) to the dashboards that control them. Currently building **Hermes**, an agent control center with widgets, chat and live management over agents already running in production.
+I'm into **AI, vibe coding and everything around agent-driven workflows** — automating things with n8n, experimenting with custom AI agent skills, and exploring how far LLM-driven tooling can go.
 
 ```text
-$ status --current
-> Shipping Hermes Control Center (v0.1.0-beta) — dashboard-first control panel for AI agents
-> Writing reusable "skills" that stop AI agents from re-learning project context every session
-> Running a small self-hosted stack (n8n, custom routing, agent infra) on my own server
+$ whoami --interests
+> AI agents & LLM-driven automation
+> Vibe coding — building fast, iterating with AI as a pair programmer
+> Workflow automation with n8n & self-hosted tooling
 ```
 
 <br/>
